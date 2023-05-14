@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-doconnectwebsite-dev-00718-authRole",
+      "UnauthRoleArn": "arn:aws:iam::873969592674:role/amplify-doconnectwebsite-dev-00718-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::873969592674:role/amplify-doconnectwebsite-dev-00718-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-doconnectwebsite-dev-00718-deployment",
+      "UnauthRoleName": "amplify-doconnectwebsite-dev-00718-unauthRole",
+      "StackName": "amplify-doconnectwebsite-dev-00718",
+      "StackId": "arn:aws:cloudformation:us-east-1:873969592674:stack/amplify-doconnectwebsite-dev-00718/e54eee50-d897-11ed-8afe-12f540fc6bd9",
+      "AmplifyAppId": "d19ykv5cno2xka"
+    },
+    "categories": {
+      "auth": {
+        "doconnectwebsite60cf925f": {}
+      }
+    }
+  }
+}
