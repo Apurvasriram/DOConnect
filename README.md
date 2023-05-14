@@ -1,10 +1,14 @@
-# Getting Started with the website
+# DOConnect
 
-  ## To run the website on browser: 
-  
-      ### Clone the app preferrably using HTTPS
-      ### Run npm i in root of the app, to install the dependencies
-      ### Run npm start in the command line, in root of the app
-      ### Continuously save your work, to see reflected changes
-      
+ **DOConnect** is a a comprehensive online platform for network amongst doctors, with an ML-powered chatbot integrated into the platform that provides doctors with an efficient way to diagnose diseases and manage patient records efficiently.
 
+It aims to provide a streamlined, technology-driven solution that simplifies patient data management, reduces administrative burden, and improves overall patient care.
+
+**Architecture Diagram:-**
+[Architecture_Diagram.pdf](https://github.com/Apurvasriram/DOConnect/files/11472973/Architecture_Diagram.pdf)
+
+
+
+
+
+Demo Link :- https://youtu.be/CjzIWuaGrd4
